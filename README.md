@@ -1,3 +1,4 @@
+![Header](https://github.com/Karan-Dahiwale/Karan-Dahiwale/blob/main/karan linkedin banner.png"Header")](/)
 
 # Hello there 😁, I am Karan <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">, and I am glad you're viewing this page.
 
