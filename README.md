@@ -1,11 +1,14 @@
 ![Header](https://github.com/Karan-Dahiwale/Karan-Dahiwale/blob/main/profile%20banner.PNG?raw=true)
 
 
-# Hello there 😁, I am Karan <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">, and I am glad you're viewing this page.
+# Hello there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width=30px />, I am Karan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width= 35px />, and I am glad you're viewing this page.
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58F725&center=true&vCenter=true&width=435&lines=Information+Security;Artificial+Intelligence;Formula+1;Explore;Debugging;Breaking;Patching;Testing;Deploying;Waiting...;Repeat+%F0%9F%99%83" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58F725&center=true&vCenter=true&width=500&lines=Python+Developer;Backend+Development;Automation+Scripting;Debugging+Code;Building+APIs;Deploying+Applications;Exploring+Libraries;Fixing+Bugs;Writing+Tests;Learning+Everyday+%F0%9F%90%8D" alt="Typing SVG" />
+  </a>
 </p>
+
 
 
 
@@ -26,7 +29,7 @@
 </div>
 
 
-<br>🤝 Joining projects where the plan is:<br>1. "Try new tech"<br>2. "Break everything"<br>3. "Fix it at 3AM"<br>4. "Profit. 💸🚀"
+<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width=18px  />Joining projects where the plan is:<br>1. "Try new tech"<br>2. "Break everything"<br>3. "Fix it at 3AM"<br>4. "Profit. 💸🚀"
 
 
 ## 🌐 Socials--Connect with me :)
