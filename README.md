@@ -1,4 +1,5 @@
-![Header](https://github.com/Karan-Dahiwale/Karan-Dahiwale/blob/main/karan linkedin banner.png"Header")](/)
+![Header](https://github.com/Karan-Dahiwale/Karan-Dahiwale/blob/main/profile%20banner.PNG?raw=true)
+
 
 # Hello there 😁, I am Karan <img src="https://raw.githubusercontent.com/uwaisdev/uwaisdev/main/wave.gif" width="30px">, and I am glad you're viewing this page.
 
@@ -8,8 +9,24 @@
 
 
 
+
 # 💫 About Me:
-🎓b.tech in eletronics and telecommunication<br>💻 Software Engineer || Python Developer :).<br>🤝 I'm excited to dive into projects that experiment with new tech and create awesome apps that make life better for everyone!<br><br>🤝 Joining projects where the plan is:<br>1. "Try new tech"<br>2. "Break everything"<br>3. "Fix it at 3AM"<br>4. "Profit. 💸🚀"
+🎓b.tech in eletronics and telecommunication<br>💻 Software Engineer || Python Developer :).<br>🤝 I'm excited to dive into projects that experiment with new tech and create awesome apps that make life better for everyone!<br>
+
+<div align="left" style="margin-top: 30px;"> 
+    <a href="https://app.daily.dev/LuciusFox92" target="_blank">
+        <img 
+            src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+            width="256" 
+            align="right" 
+            alt="karan dahiwale Dev Card"
+            style="margin-right: 20px;" 
+        />
+    </a>
+</div>
+
+
+<br>🤝 Joining projects where the plan is:<br>1. "Try new tech"<br>2. "Break everything"<br>3. "Fix it at 3AM"<br>4. "Profit. 💸🚀"
 
 
 ## 🌐 Socials--Connect with me :)
