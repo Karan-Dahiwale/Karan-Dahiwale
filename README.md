@@ -47,9 +47,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karan-Dahiwale&icon=0&color=0)](https://visitcount.itsvg.in)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karan-Dahiwale/Karan-Dahiwale/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karan-Dahiwale/Karan-Dahiwale/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Karan-Dahiwale/Karan-Dahiwale/output/github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karan-Dahiwale/Karan-Dahiwale/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karan-Dahiwale/Karan-Dahiwale/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Karan-Dahiwale/Karan-Dahiwale/output/github-snake.svg" style="max-width: 100%; height: auto;">
+  </picture>
 
