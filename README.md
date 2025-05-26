@@ -1,4 +1,5 @@
-![Header](https://github.com/Karan-Dahiwale/Karan-Dahiwale/blob/main/profile%20banner.PNG?raw=true)
+![Header](https://github.com/Karan-Dahiwale/Karan-Dahiwale/blob/main/Karan's%20Linkedin%20banner.jpg?raw=true)
+
 
 
 # Hello there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width=30px />, I am Karan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width= 35px />, and I am glad you're viewing this page.
