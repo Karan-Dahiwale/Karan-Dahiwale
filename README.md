@@ -33,7 +33,7 @@
 <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width=18px  />Joining projects where the plan is:<br>1. "Try new tech"<br>2. "Break everything"<br>3. "Fix it at 3AM"<br>4. "Profit. 💸🚀"
 
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me:
 
 
 
